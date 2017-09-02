@@ -1,6 +1,8 @@
 {
   "Randomizer_menu_main_name" : "Player Randomizer",
   "Randomizer_menu_main_desc" : "Рандомизируйте вашу экипировку перед каждым ограблением",
+  "enabled_name" : "Включено",
+  "enabled_desc" : "Включите или отключите рандомайзер",
   "hide_selections_name" : "Спрятать рандомизированный выбор",
   "hide_selections_desc" : "Спрятать рандомизированный выбор в меню снаряжения",
   "only_owned_weapons_name" : "Только оружие из инвентаря",
